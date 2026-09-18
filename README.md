@@ -12,7 +12,7 @@ The purpose of this project was to strengthen practical skills in **terrain anal
 
 ## Final Map
 
-![Terrain and Topographic Analysis of Murray, Kentucky](maps/Murray_KY_Terrain_Topographic_Analysis.jpg)
+![Terrain and Topographic Analysis of Murray, Kentucky](Murray_KY_Terrain_Topographic_Analysis.jpg)
 
 *Final terrain and topographic analysis map of Murray, Kentucky, showing elevation, hillshade, contour lines, the selected profile transect, and the corresponding topographic elevation profile.*
 
